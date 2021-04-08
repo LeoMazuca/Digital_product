@@ -1,4 +1,4 @@
-@media (max-width: 320px){
+@media (max-width: 360px){
 	nav img{
 		width: 100%;
 	}
@@ -35,10 +35,10 @@
 }
 @media (min-width: 601px) {
 	.main_section{
-		padding: 10%;
+		padding: 9%;
 	}
 	.product{
-		margin-top: -17rem;
+		margin-top: -15rem;
 	}
 		.menciones_content{
 		display: flex;
