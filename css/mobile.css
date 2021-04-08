@@ -1,0 +1,47 @@
+@media (max-width: 320px){
+	nav img{
+		width: 100%;
+	}
+}
+@media (max-width: 600px){
+	body{
+		display: inline-table;
+	}
+
+	.main-section{
+		padding: 10%;
+	}
+	.products{
+		display: inherit;		
+	}
+	.product{
+		margin-top: auto;
+	}
+	.main_section{
+		padding: 4%;
+	}
+	.descripciones{
+		display: inherit;
+	}
+	.descripcion{
+		margin-top: auto;
+	}
+	.descripcion p{
+		text-align: center;
+	}
+		.mencion{
+		margin: 50px;
+	}
+}
+@media (min-width: 601px) {
+	.main_section{
+		padding: 10%;
+	}
+	.product{
+		margin-top: -17rem;
+	}
+		.menciones_content{
+		display: flex;
+	}
+
+}
